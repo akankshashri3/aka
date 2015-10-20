@@ -1,0 +1,8 @@
+class divi
+{
+public static void main()
+{int a,b;
+division=a/b;
+System.out.println("division");
+}
+}
